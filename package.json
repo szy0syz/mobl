@@ -1,0 +1,24 @@
+{
+  "name": "mobl",
+  "version": "0.1.0",
+  "description": "A UI component library based on React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/szy0syz/mobl.git"
+  },
+  "keywords": [
+    "react",
+    "react.js",
+    "components"
+  ],
+  "author": "Jerry Shi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/szy0syz/mobl/issues"
+  },
+  "homepage": "https://github.com/szy0syz/mobl#readme"
+}
